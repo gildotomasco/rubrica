@@ -14,8 +14,8 @@ Una semplice applicazione per gestire i contatti telefonici.
 ## Installazione
 1. Clona il repository:
     ```bash
-    git clone https://github.com/gildotomasco/rubricaTelefonica.git
-    cd rubricaTelefonica
+    git clone https://github.com/gildotomasco/rubrica.git
+    cd rubrica
     ```
 2. Installa le dipendenze:
     Non sono necessarie installazioni aggiuntive poiché il progetto utilizza solo moduli della libreria standard di Python.
